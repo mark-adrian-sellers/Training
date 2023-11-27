@@ -1,0 +1,17 @@
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\appsettings.json
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Data\trainings.txt
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Training.exe
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Training.deps.json
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Training.runtimeconfig.json
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Training.dll
+C:\Users\marka\source\repos\Training\bin\Debug\net7.0\Training.pdb
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.csproj.AssemblyReference.cache
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.AssemblyInfoInputs.cache
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.AssemblyInfo.cs
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.dll
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\refint\Training.dll
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.pdb
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\Training.genruntimeconfig.cache
+C:\Users\marka\source\repos\Training\obj\Debug\net7.0\ref\Training.dll
